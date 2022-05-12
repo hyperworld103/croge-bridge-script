@@ -1,0 +1,17 @@
+{
+    "EthConnectionURL": "https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+    "BscConnectionURL": "https://bsc-dataseed.binance.org/",
+    "FtmConnectionURL": "https://rpc.ftm.tools/",
+    "AvaxConnectionURL": "https://api.avax.network/ext/bc/C/rpc",
+    "BSC_BridgeContractAddress": "0x5083bbc1f936A3CDa2a3C9C529Ae42EA8371294B",
+    "ETH_BridgeContractAddress": "0xd4721caA7aB7d2C8A7d461A546717375Dc42e9c1",
+    "FTM_BridgeContractAddress":"0x05b2713E3050F5daFDd9C187D9Ee6d26AAF2b8e0",
+    "AVAX_BridgeContractAddress":"0xF01D3EAe7082E593Ee5B926d4378A7F43C508d33",
+    "adminAddress": "0xa0266B27BF0D6d4Dd326eA10B6e0fF2cF06651E1",
+    "adminPvtKey": "cd932cdd5c97797018e4ecbe0439f9bd1c3f2959c98891c7137654baf356daa2",
+    "EthChainId": "0x01",
+    "BscChainId": "0x38",
+    "FtmChainId":"0xFA",
+    "AvaxChainId":"0xA86A"
+
+}
